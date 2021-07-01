@@ -1,0 +1,4 @@
+Django==1.11.17
+pytz==2021.1
+sqlparse==0.4.1
+django-bootstrap3==15.0.0
